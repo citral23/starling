@@ -49,6 +49,7 @@ modules:
         - gnome-clocks
         - gnome-disk-image-mounter
         - gnome-disks
+        - gnome-keyring-pam
         - gparted
         - greetd
         - gstreamer1-plugins-ugly
