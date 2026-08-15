@@ -79,7 +79,6 @@ modules:
         - system-config-printer
         - tailscale
         - telnet
-        - tlp
         - virt-manager
         - wayvnc
         - wlsunset
