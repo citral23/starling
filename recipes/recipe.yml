@@ -12,6 +12,8 @@ modules:
         destination: /
       - source: usr/lib/firmware
         destination: /usr/lib/firmware
+      - source: etc/greetd
+        destination: /etc/greetd
 
   - type: bling
     install:
@@ -120,9 +122,10 @@ modules:
   - type: systemd
     system:
       enabled:
-        - tailscaled
+        - greetd
         - libvirtd
         - sshd
+        - tailscaled
 
   - type: kargs
     kargs:
