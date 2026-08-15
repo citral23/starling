@@ -80,6 +80,7 @@ modules:
         - system-config-printer
         - tailscale
         - telnet
+        - tuned-ppd
         - virt-manager
         - wayvnc
         - wlsunset
