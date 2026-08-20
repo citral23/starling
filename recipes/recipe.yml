@@ -68,12 +68,13 @@ modules:
         - mpv-devel
         - nautilus
         - NetworkManager-openconnect
+        - NetworkManager-openvpn
         - niri
         - nmap-ncat
         - noctalia
         - noctalia-greeter
         - noctalia-shell
-        - openconnect
+        - openvpn-otp
         - papers
         - python3-pip
         - qemu
