@@ -31,6 +31,7 @@ modules:
         - lizardbyte/beta
     install:
       packages:
+        - adw-gtk3-theme 
         - bat
         - brave-origin
         - brightnessctl
@@ -56,6 +57,11 @@ modules:
         - gparted
         - greetd
         - gstreamer1-plugins-ugly
+        - gvfs-archive
+        - gvfs-gphoto2
+        - gvfs-mtp
+        - gvfs-nfs
+        - gvfs-smb
         - hidapi
         - ImageMagick
         - intel-media-driver
