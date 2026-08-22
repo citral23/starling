@@ -80,6 +80,7 @@ modules:
         - noctalia-shell
         - openvpn-otp
         - papers
+        - powertop
         - python3-pip
         - qemu
         - qt6ct
