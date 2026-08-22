@@ -56,6 +56,7 @@ modules:
         - gparted
         - greetd
         - gstreamer1-plugins-ugly
+        - hidapi
         - ImageMagick
         - intel-media-driver
         - jetbrainsmono-nerd-fonts
