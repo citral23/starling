@@ -61,6 +61,7 @@ modules:
         - jetbrainsmono-nerd-fonts
         - kitty
         - libvirt
+        - lm_sensors
         - mangohud
         - mediawriter
         - mesa-va-drivers-freeworld
@@ -68,6 +69,7 @@ modules:
         - mpv
         - mpv-devel
         - nautilus
+        - nethogs
         - NetworkManager-openconnect
         - NetworkManager-openvpn
         - niri
