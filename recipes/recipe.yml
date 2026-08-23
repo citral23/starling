@@ -15,10 +15,6 @@ modules:
       - source: etc/greetd
         destination: /etc/greetd
 
-  - type: bling
-    install:
-        - rpmfusion
-
   - type: dnf
     repos:
       files:
@@ -63,16 +59,12 @@ modules:
         - gvfs-nfs
         - gvfs-smb
         - hidapi
-        - ImageMagick
-        - intel-media-driver
         - jetbrainsmono-nerd-fonts
         - kitty
         - libvirt
         - lm_sensors
         - mangohud
         - mediawriter
-        - mesa-va-drivers-freeworld
-        - mesa-vulkan-drivers-freeworld
         - mpv
         - mpv-devel
         - nautilus
