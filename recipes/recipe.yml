@@ -91,6 +91,7 @@ modules:
         - wayvnc
         - wlsunset
         - xdotool
+        - xfce-polkit
         - xwininfo
         - yad
         - yazi
