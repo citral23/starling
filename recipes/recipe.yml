@@ -44,7 +44,6 @@ modules:
         - freerdp
         - fuse-libs
         - gamescope
-        - gamescope-session-steam
         - gnome-calculator
         - gnome-clocks
         - gnome-disk-image-mounter
