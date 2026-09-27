@@ -70,6 +70,7 @@ modules:
         - nethogs
         - NetworkManager-openconnect
         - NetworkManager-openvpn
+        - NetworkManager-tui
         - niri
         - nmap-ncat
         - noctalia
