@@ -27,6 +27,9 @@ modules:
         - lizardbyte/beta
     install:
       packages:
+        - repo: terra
+        packages:
+          - xwayland-satellite
         - adw-gtk3-theme 
         - bat
         - brave-origin
@@ -97,10 +100,6 @@ modules:
         - yad
         - yazi
         - zed
-
-        - repo: terra
-          packages:
-            - xwayland-satellite
 
     remove:
       packages:
