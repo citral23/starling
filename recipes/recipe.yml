@@ -100,7 +100,7 @@ modules:
 
         - repo: terra
           packages:
-            xwayland-satellite
+            - xwayland-satellite
 
     remove:
       packages:
