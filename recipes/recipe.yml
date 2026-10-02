@@ -28,8 +28,8 @@ modules:
     install:
       packages:
         - repo: terra
-        packages:
-          - xwayland-satellite
+          packages:
+            - xwayland-satellite
         - adw-gtk3-theme 
         - bat
         - brave-origin
