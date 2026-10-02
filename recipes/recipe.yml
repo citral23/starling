@@ -92,11 +92,15 @@ modules:
         - wayvnc
         - wlsunset
         - xdotool
-        - xfce-polkit
+        - xfce-polkit 
         - xwininfo
         - yad
         - yazi
         - zed
+
+        - repo: terra
+          packages:
+            xwayland-satellite
 
     remove:
       packages:
