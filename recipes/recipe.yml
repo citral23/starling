@@ -27,9 +27,6 @@ modules:
         - lizardbyte/beta
     install:
       packages:
-        - repo: terra
-          packages:
-            - xwayland-satellite
         - adw-gtk3-theme 
         - bat
         - brave-origin
@@ -100,10 +97,13 @@ modules:
         - yad
         - yazi
         - zed
-
     remove:
       packages:
         - htop
+    replace:
+      - from-repo: terra
+        packages:
+          - xwayland-satellite
 
   - type: akmods
     install:
