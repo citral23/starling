@@ -52,7 +52,6 @@ modules:
         - gparted
         - greetd
         - gstreamer1-plugins-ugly
-        - gvfs-archive
         - gvfs-gphoto2
         - gvfs-mtp
         - gvfs-nfs
