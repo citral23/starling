@@ -92,7 +92,8 @@ modules:
         - wayvnc
         - wlsunset
         - xdotool
-        - xfce-polkit 
+        - xfce-polkit
+        - xwayland-satellite
         - xwininfo
         - yad
         - yazi
@@ -100,10 +101,6 @@ modules:
     remove:
       packages:
         - htop
-    replace:
-      - from-repo: terra
-        packages:
-          - xwayland-satellite
 
   - type: akmods
     install:
