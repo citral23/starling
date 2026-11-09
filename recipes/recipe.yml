@@ -101,10 +101,6 @@ modules:
       packages:
         - htop
 
-  - type: akmods
-    install:
-      - xone
-
   - type: default-flatpaks
     configurations:
       - notify: false
