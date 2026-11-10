@@ -62,7 +62,6 @@ modules:
         - hidapi
         - jetbrainsmono-nerd-fonts
         - kitty
-        - libdrm-devel
         - libvirt
         - lm_sensors
         - make
