@@ -32,11 +32,13 @@ modules:
         - brave-origin
         - brightnessctl
         - btop
+        - c-development
         - cargo
         - cava
         - chezmoi
         - cliphist
         - ddcutil
+        - development-tools
         - dialog
         - eog
         - fastfetch
@@ -91,8 +93,6 @@ modules:
         - wayvnc
         - wlsunset
         - xdotool
-        - xfce-polkit
-        - xwayland-satellite
         - xwininfo
         - yad
         - yazi
