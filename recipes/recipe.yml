@@ -62,6 +62,7 @@ modules:
         - hidapi
         - jetbrainsmono-nerd-fonts
         - kitty
+        - libdrm-devel
         - libvirt
         - lm_sensors
         - make
@@ -81,6 +82,7 @@ modules:
         - openvpn-otp
         - papers
         - powertop
+        - python3-devel
         - python3-pip
         - qemu
         - qt6ct
