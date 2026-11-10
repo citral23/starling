@@ -32,13 +32,13 @@ modules:
         - brave-origin
         - brightnessctl
         - btop
-        - c-development
+        - c++
         - cargo
         - cava
         - chezmoi
         - cliphist
+        - cmake
         - ddcutil
-        - development-tools
         - dialog
         - eog
         - fastfetch
@@ -46,6 +46,7 @@ modules:
         - freerdp
         - fuse-libs
         - gamescope
+        - gcc
         - gnome-calculator
         - gnome-clocks
         - gnome-disk-image-mounter
@@ -63,6 +64,7 @@ modules:
         - kitty
         - libvirt
         - lm_sensors
+        - make
         - mangohud
         - mediawriter
         - mpv
