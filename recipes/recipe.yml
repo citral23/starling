@@ -75,6 +75,7 @@ modules:
         - NetworkManager-openvpn
         - NetworkManager-tui
         - niri
+        - nm-connection-editor
         - nmap-ncat
         - noctalia
         - noctalia-greeter
