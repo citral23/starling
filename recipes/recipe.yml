@@ -79,7 +79,6 @@ modules:
         - nmap-ncat
         - noctalia
         - noctalia-greeter
-        - openrgb
         - openvpn-otp
         - papers
         - powertop
@@ -96,6 +95,7 @@ modules:
         - tuned-ppd
         - virt-manager
         - wayvnc
+        - wine
         - wlsunset
         - xdotool
         - xwininfo
